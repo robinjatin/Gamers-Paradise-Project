@@ -14,7 +14,7 @@
 * TypeScript
 * AJAX
 
-## SpringBoot
+## SpringBoot:
 * Used for login/signup in our app.
 * Used for Storing and displaying user and reviews data.
 
